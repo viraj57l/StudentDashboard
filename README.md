@@ -1,4 +1,4 @@
-This is Backend Project a small feature of StudentDashboard Here you add some features
+This is Backend Project  using SpringFramework a small feature of StudentDashboard Here are the added some features.
 1. Add a student
 2. Add a Subject
 3. View  all students
