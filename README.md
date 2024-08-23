@@ -11,3 +11,5 @@ Anyone can used H2 database I have commented out,in application.properties
 # The project can be run on postman 
 # JWT token is also created for certain amount of time for Stateless Session.
 # you can add more features in this project .
+ If using local database you need to create three tables Student,subject and one table Student_subject, I haven't added script for   Student_subject table.
+ # Please Name the tables and column names according to entity  ,names given to avoid errors ,So JPA repository will work properly.
